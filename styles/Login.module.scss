@@ -1,0 +1,12 @@
+.loginPage {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .mainContent {
+        width: 900px;
+        height: 400px;
+        border: 1px solid #cccccc;
+    }
+}
+
